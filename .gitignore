@@ -1,0 +1,8 @@
+# 运行时生成的 SQLite 数据库
+mask_audit.db
+*.db
+
+# Python 缓存
+__pycache__/
+*.pyc
+.pytest_cache/
